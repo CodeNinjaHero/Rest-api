@@ -12,7 +12,7 @@ This is a **Spring Boot REST API** for user management. It includes **Swagger do
     
 - Supports **partial updates** (only modifies provided fields).
     
-- Security is **disabled** for now.
+- Security to **delete** and **update** a user
     
 
 ## 🚀 Installation & Execution
