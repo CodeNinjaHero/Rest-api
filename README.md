@@ -21,7 +21,9 @@ This is a **Spring Boot REST API** for user management. It includes **Swagger do
 
 ```
 git clone https://github.com/CodeNinjaHero/Rest-api.git
-cd Rest-api
+```
+```
+cd user-api
 ```
 
 ### 2️⃣ **Set up the environment**
